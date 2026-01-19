@@ -286,10 +286,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Team
-
-- [Your Name] - [Role]
-- [Team Member] - [Role]
 
 ## 🔗 Links
 
@@ -328,12 +324,4 @@ rm -rf node_modules
 npm install
 ```
 
-## 📞 Support
-
-For questions or issues:
-- Create an issue in the repository
-- Contact: [your-email@example.com]
-
 ---
-
-**Built with ❤️ for students who deserve better career preparation**
